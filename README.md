@@ -1,5 +1,5 @@
 # Redrob-data-Ai
-## 🚀 Getting Started
+## Getting Started
 
 Follow these steps to set up and run the project.
 
