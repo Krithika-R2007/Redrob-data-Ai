@@ -1,0 +1,5 @@
+pandas
+openpyxl
+tqdm
+sentence-transformers
+docx2txt
